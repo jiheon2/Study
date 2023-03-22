@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f7f3321-4914-4c69-9dda-b259b6383774" name="Changes" comment="Study">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex4/EX4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StudyAlone/PT01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/Q1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2N6I45HkNazdx7Sw6SSBuqsjinC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/CodingStudy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.EX4_1">
+    <configuration name="EX4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_1" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3.Q04" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3.Q05" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3.Q06" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3.Q07" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EX4_1" />
+        <item itemvalue="Application.Q07" />
+        <item itemvalue="Application.Q06" />
+        <item itemvalue="Application.Q05" />
+        <item itemvalue="Application.Q04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\kch34\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f7f3321-4914-4c69-9dda-b259b6383774" name="Changes" comment="" />
+      <created>1678977913245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678977913245</updated>
+      <workItem from="1678977913764" duration="1410000" />
+      <workItem from="1679017972671" duration="5261000" />
+      <workItem from="1679214099626" duration="9626000" />
+      <workItem from="1679468059665" duration="3642000" />
+    </task>
+    <task id="LOCAL-00001" summary="sample">
+      <created>1678978202828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678978202828</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sample">
+      <created>1678978969120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678978969120</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sample">
+      <created>1679018223447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679018223447</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Study">
+      <created>1679043638565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679043638565</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Study">
+      <created>1679215052995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679215052995</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Study">
+      <created>1679323120263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679323120263</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Study">
+      <created>1679385200857</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679385200857</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Study">
+      <created>1679385586229</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679385586229</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Study">
+      <created>1679386544138</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679386544138</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Study">
+      <created>1679387603681</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679387603681</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sample" />
+    <MESSAGE value="Study" />
+    <option name="LAST_COMMIT_MESSAGE" value="Study" />
+  </component>
+</project>
