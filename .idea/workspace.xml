@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f7f3321-4914-4c69-9dda-b259b6383774" name="Changes" comment="Study">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex4/EX4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StudyAlone/PT01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/EX3_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/EX3_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ex/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex3/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex4/EX4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/CodingStudy&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.EX4_1">
+}]]></component>
+  <component name="RunManager" selected="Application.EX4_2">
     <configuration name="EX4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4.EX4_1" />
       <module name="Study" />
@@ -93,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3.Q04" />
+    <configuration name="EX4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_2" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex3.*" />
+          <option name="PATTERN" value="Ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX4_2" />
         <item itemvalue="Application.EX4_1" />
         <item itemvalue="Application.Q07" />
         <item itemvalue="Application.Q06" />
         <item itemvalue="Application.Q05" />
-        <item itemvalue="Application.Q04" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +154,10 @@
       <workItem from="1678977913764" duration="1410000" />
       <workItem from="1679017972671" duration="5261000" />
       <workItem from="1679214099626" duration="9626000" />
-      <workItem from="1679468059665" duration="3642000" />
+      <workItem from="1679468059665" duration="4875000" />
+      <workItem from="1679544273298" duration="5000" />
+      <workItem from="1679572012023" duration="809000" />
+      <workItem from="1679755856271" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="sample">
       <created>1678978202828</created>
@@ -241,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679387603681</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Study">
+      <created>1679494746198</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679494746198</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
