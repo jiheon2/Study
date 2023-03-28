@@ -64,7 +64,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX4_11">
+  <component name="RunManager" selected="Application.EX4_13">
     <configuration name="EX4_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4.EX4_10" />
       <module name="Study" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX4_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_7" />
+    <configuration name="EX4_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_13" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX4_13" />
         <item itemvalue="Application.EX4_11" />
         <item itemvalue="Application.EX4_10" />
         <item itemvalue="Application.EX4_9" />
         <item itemvalue="Application.EX4_8" />
-        <item itemvalue="Application.EX4_7" />
       </list>
     </recent_temporary>
   </component>
