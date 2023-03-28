@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f7f3321-4914-4c69-9dda-b259b6383774" name="Changes" comment="Study">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex4/EX4_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX4_8">
-    <configuration name="EX4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_4" />
-      <module name="Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EX4_9">
     <configuration name="EX4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4.EX4_5" />
       <module name="Study" />
@@ -129,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX4_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_9" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX4_9" />
         <item itemvalue="Application.EX4_8" />
         <item itemvalue="Application.EX4_7" />
         <item itemvalue="Application.EX4_6" />
         <item itemvalue="Application.EX4_5" />
-        <item itemvalue="Application.EX4_4" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +157,7 @@
       <workItem from="1679544273298" duration="5000" />
       <workItem from="1679572012023" duration="809000" />
       <workItem from="1679755856271" duration="2203000" />
+      <workItem from="1680001795141" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="sample">
       <created>1678978202828</created>
@@ -277,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679816342665</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Study">
+      <created>1680001983818</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680001983819</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
