@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f7f3321-4914-4c69-9dda-b259b6383774" name="Changes" comment="Study">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex4/EX4_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Study&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/KOPO&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX4_13">
+  <component name="RunManager" selected="Application.EX4_14">
     <configuration name="EX4_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4.EX4_10" />
       <module name="Study" />
@@ -104,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX4_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_8" />
+    <configuration name="EX4_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_14" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX4_14" />
         <item itemvalue="Application.EX4_13" />
         <item itemvalue="Application.EX4_11" />
         <item itemvalue="Application.EX4_10" />
         <item itemvalue="Application.EX4_9" />
-        <item itemvalue="Application.EX4_8" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +157,8 @@
       <workItem from="1679544273298" duration="5000" />
       <workItem from="1679572012023" duration="809000" />
       <workItem from="1679755856271" duration="2203000" />
-      <workItem from="1680001795141" duration="2337000" />
+      <workItem from="1680001795141" duration="3143000" />
+      <workItem from="1680069023926" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="sample">
       <created>1678978202828</created>
@@ -307,7 +307,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680002593363</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Study">
+      <created>1680005442030</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680005442030</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Study">
+      <created>1680005626218</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680005626218</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
