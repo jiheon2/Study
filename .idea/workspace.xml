@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f7f3321-4914-4c69-9dda-b259b6383774" name="Changes" comment="Study">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex4/EX4_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PT/PT1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,20 +64,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EX4_16A">
-    <configuration name="EX4_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4.EX4_11" />
-      <module name="Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PT1">
     <configuration name="EX4_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4.EX4_13" />
       <module name="Study" />
@@ -130,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PT1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PT.PT1" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PT1" />
         <item itemvalue="Application.EX4_16A" />
         <item itemvalue="Application.EX4_15" />
         <item itemvalue="Application.EX4_14" />
         <item itemvalue="Application.EX4_13" />
-        <item itemvalue="Application.EX4_11" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,7 @@
       <workItem from="1679755856271" duration="2203000" />
       <workItem from="1680001795141" duration="3143000" />
       <workItem from="1680069023926" duration="12000" />
-      <workItem from="1680069696191" duration="1301000" />
+      <workItem from="1680069696191" duration="3811000" />
     </task>
     <task id="LOCAL-00001" summary="sample">
       <created>1678978202828</created>
@@ -330,7 +330,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680069939857</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Study">
+      <created>1680071026006</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1680071026006</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Study">
+      <created>1680071167011</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1680071167011</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
