@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f7f3321-4914-4c69-9dda-b259b6383774" name="Changes" comment="Study">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_8A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5/EX5_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_2A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_7A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6/EX6_9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/PT/PT3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/PT/PT4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/PT/PT5.java" afterDir="false" />
@@ -77,13 +75,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EX5_10">
-    <configuration name="EX5_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5.EX5_10" />
+  <component name="RunManager" selected="Application.EX6_10">
+    <configuration name="EX6_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6.EX6_10" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex5.*" />
+          <option name="PATTERN" value="Ex6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX5_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5.EX5_8" />
+    <configuration name="EX6_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6.EX6_5" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex5.*" />
+          <option name="PATTERN" value="Ex6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX5_8A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5.EX5_8A" />
+    <configuration name="EX6_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6.EX6_7" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex5.*" />
+          <option name="PATTERN" value="Ex6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX5_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5.EX5_9" />
+    <configuration name="EX6_7A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6.EX6_7A" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex5.*" />
+          <option name="PATTERN" value="Ex6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PT3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PT.PT3" />
+    <configuration name="EX6_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6.EX6_9" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PT.*" />
+          <option name="PATTERN" value="Ex6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX5_10" />
-        <item itemvalue="Application.PT3" />
-        <item itemvalue="Application.EX5_9" />
-        <item itemvalue="Application.EX5_8A" />
-        <item itemvalue="Application.EX5_8" />
+        <item itemvalue="Application.EX6_10" />
+        <item itemvalue="Application.EX6_9" />
+        <item itemvalue="Application.EX6_7A" />
+        <item itemvalue="Application.EX6_7" />
+        <item itemvalue="Application.EX6_5" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +171,7 @@
       <workItem from="1679755856271" duration="2203000" />
       <workItem from="1680001795141" duration="3143000" />
       <workItem from="1680069023926" duration="12000" />
-      <workItem from="1680069696191" duration="17703000" />
+      <workItem from="1680069696191" duration="20210000" />
     </task>
     <task id="LOCAL-00001" summary="sample">
       <created>1678978202828</created>
@@ -371,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680081541921</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Study">
+      <created>1680091738200</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1680091738200</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
