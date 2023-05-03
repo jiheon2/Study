@@ -11,12 +11,16 @@ public class EX9_2 {
         str = s.nextLine();
 
         System.out.printf("출력 문자열 ==> ");
-        for(int i = 0; i <str.length(); i++) {
-            if(str.charAt(i) == 'o') {
-                System.out.printf("%c", '$');;
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) == 'o') {
+                System.out.printf("%c", '$');
+                ;
             } else {
                 System.out.printf("%c", str.charAt(i));
             }
         }
+
+        //위의 for문을 아래의 함수로 바꾸어 사용이 가능함
+        //System.out.println(str.replaceAll("o","q"));
     }
 }

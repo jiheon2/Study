@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f7f3321-4914-4c69-9dda-b259b6383774" name="Changes" comment="Study">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_11A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_6A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_8A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex8/EX8_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PT/PT0503.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/PT/PT3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/PT/PT5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Ex6/EX6_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex9/EX9_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex9/EX9_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex9/EX9_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ex9/EX9_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ex9/EX9_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +34,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,9 +71,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX9_5">
-    <configuration name="EX9_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9.EX9_1" />
+  <component name="RunManager" selected="Application.EX9_13">
+    <configuration name="EX9_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9.EX9_11" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
@@ -100,34 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX9_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9.EX9_2" />
-      <module name="Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX9_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9.EX9_3" />
-      <module name="Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX9_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9.EX9_4" />
+    <configuration name="EX9_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9.EX9_13" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
@@ -152,13 +111,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX9_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9.EX9_9" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PT0503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PT.PT0503" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX9_13" />
+        <item itemvalue="Application.EX9_11" />
+        <item itemvalue="Application.PT0503" />
+        <item itemvalue="Application.EX9_9" />
         <item itemvalue="Application.EX9_5" />
-        <item itemvalue="Application.EX9_4" />
-        <item itemvalue="Application.EX9_3" />
-        <item itemvalue="Application.EX9_2" />
-        <item itemvalue="Application.EX9_1" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +177,12 @@
       <workItem from="1680689257535" duration="4110000" />
       <workItem from="1681016763383" duration="1236000" />
       <workItem from="1681281577319" duration="451000" />
-      <workItem from="1681292924215" duration="8992000" />
+      <workItem from="1681292924215" duration="9221000" />
+      <workItem from="1681359643748" duration="2600000" />
+      <workItem from="1681364199133" duration="4259000" />
+      <workItem from="1682430114966" duration="26000" />
+      <workItem from="1683073677042" duration="2133000" />
+      <workItem from="1683076378156" duration="5860000" />
     </task>
     <task id="LOCAL-00001" summary="sample">
       <created>1678978202828</created>
@@ -439,7 +429,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680620203122</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Study">
+      <created>1681303546001</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1681303546001</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Study">
+      <created>1681360167573</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1681360167573</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Study">
+      <created>1681383426482</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1681383426482</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

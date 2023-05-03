@@ -5,7 +5,7 @@ public class EX9_9 {
         String str1 = "Java Programming";
         String str2 = "Java Programming";
         String str3 = new String("Java Programming");
-        // String 데이터형식은 new를 사용해서 선언가능하다
+        // String 클래스는 new를 사용해서 선언가능하다
 
         System.out.println("원 문자열1 ==> [" + str1 + "]");
         System.out.println("원 문자열2 ==> [" + str2 + "]");
